@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://shivada-2707.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-ff4f81?style=for-the-badge" alt="Live Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Portfolio-ff4f81?style=for-the-badge" alt="Live Demo">
   </a>
   <a href="https://github.com/shivada-2707">
     <img src="https://img.shields.io/badge/GitHub-shivada--2707-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -18,32 +18,26 @@
 
 ---
 
-## 🌐 About This Portfolio
+## 🌐 Live Demo
 
-This repository contains my personal portfolio website — a space where I showcase my background, technical skills, projects, and interests in **Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models, Python, and Backend Engineering**.
+### 🚀 [Visit My Portfolio](https://shivada-2707.github.io/)
 
-The portfolio represents my approach to development:
+Explore the live website to learn more about my:
 
-> **Turning research ideas into working software.**
-
-I enjoy taking technical concepts and research-oriented ideas and transforming them into practical applications that people can actually use.
+- 👩‍💻 Background
+- 🛠️ Technical skills
+- 🤖 AI/ML interests
+- 🚀 Projects
+- ⚙️ Development experience
+- 📬 Contact information
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About
 
 I'm an **MCA graduate from Government Engineering College, Thrissur**, specializing in applied AI/ML.
 
-My work sits at the intersection of:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Large Language Models
-- 👁️ Computer Vision
-- 🐍 Python Development
-- ⚙️ Backend Engineering
-- 🔌 API & Microservices Development
-
-I'm particularly interested in building practical AI-powered applications and exploring how modern AI models can be integrated into real-world software.
+My work sits at the intersection of **language models, computer vision, and backend engineering**, with a focus on turning research ideas into practical software. :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -51,106 +45,53 @@ I'm particularly interested in building practical AI-powered applications and ex
 
 ### 📝 LaTeX WriteSense AI
 
-An AI-powered academic writing assistant designed to provide real-time writing support.
-
-The project integrates:
-
-- LLaMA3 Large Language Model
-- NLLB-200 translation model
-- FastAPI
-- Microservices architecture
-- Chrome Extension
-
-The goal is to bring intelligent academic writing assistance directly into the user's workflow.
-
----
+An AI-powered academic writing assistant integrating **LLaMA3**, **NLLB-200**, **FastAPI microservices**, and a **Chrome extension** for real-time academic writing support. :contentReference[oaicite:1]{index=1}
 
 ### 👁️ YOLOv5 Object Detection
 
 A computer vision project focused on improving object detection in **foggy and low-visibility environments**.
 
-The project combines image enhancement techniques with YOLOv5 to improve detection performance in challenging visual conditions.
-
-**Technologies:**
-
-- Python
-- PyTorch
-- OpenCV
-- YOLOv5
-- CLAHE
-- Computer Vision
-
----
-
 ### 🌱 Fresh Home
 
-A smart organic farming and distribution platform developed as a BCA final-year project.
+A smart organic farming and distribution platform featuring a **SQL-driven recommendation engine** and **CNN-based pest and crop forecasting**.
 
-The system includes:
-
-- SQL-driven recommendation engine
-- CNN-based pest forecasting
-- Crop forecasting
-- Django backend
-- MySQL database
-- Android application
-
-**Technologies:**
-
-`Django` `MySQL` `CNN` `Android Studio`
+**Technologies:** `Django` `MySQL` `CNN` `Android Studio` :contentReference[oaicite:2]{index=2}
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies
 
-### Programming
+`Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
 
-`Python` `Java` `SQL` `JavaScript` `HTML` `CSS`
+`Machine Learning` `Computer Vision` `LLMs` `Prompt Engineering`
 
-### Artificial Intelligence & Machine Learning
+`YOLOv5` `OpenCV` `PyTorch` `CLAHE`
 
-`Machine Learning` `Deep Learning` `Large Language Models` `Prompt Engineering`
-
-### Computer Vision
-
-`YOLOv5` `OpenCV` `PyTorch` `CLAHE` `Object Detection` `Image Enhancement`
-
-### Backend Development
-
-`FastAPI` `Flask` `REST APIs` `Microservices`
-
-### Databases
-
-`MySQL` `MongoDB`
-
-### Tools
+`FastAPI` `Flask` `MySQL` `MongoDB`
 
 `Git` `GitHub` `Docker`
 
 ---
 
-## 🎨 Portfolio Design
+## 🎨 Portfolio
 
-The website uses a custom **pixel-inspired visual design** with:
+The website features:
 
-- Responsive layout
+- Responsive design
+- Pixel-inspired UI
 - Interactive navigation
 - Animated elements
-- Pixel-art-inspired decorations
-- Project cards
-- Skills section
-- Contact section
-- Responsive mobile navigation
-- Social profile links
+- Skills and project sections
+- Contact form
+- GitHub and LinkedIn integration
 
-The design is intentionally different from a traditional corporate portfolio while keeping the content professional and easy to navigate.
+The navigation includes **Home, About, Skills, Build, Projects, and Contact** sections. :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 📂 Website Structure
+## 💻 Run Locally
 
-```text
-shivada-2707.github.io/
-│
-├── index.html
-└── README.md
+```bash
+git clone https://github.com/shivada-2707/shivada-2707.github.io.git
+
+cd shivada-2707.github.io
