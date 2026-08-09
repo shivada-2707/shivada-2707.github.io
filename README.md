@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Shivada Manoj P
-
-### AI/ML Engineer • Python Developer • LLM & Computer Vision Enthusiast
+# ✦ Shivada Manoj — Portfolio
 
 <p align="center">
+  <strong>AI/ML Engineer • Python Developer • Computer Vision • LLM Applications</strong>
+</p>
+
+<p align="center">
+  <a href="https://shivada-2707.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-ff4f81?style=for-the-badge" alt="Live Portfolio">
+  </a>
   <a href="https://github.com/shivada-2707">
     <img src="https://img.shields.io/badge/GitHub-shivada--2707-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -13,232 +18,139 @@
 
 ---
 
-## 🚀 About Me
+## 🌐 About This Portfolio
 
-I'm an **MCA graduate** focused on building practical solutions using **Artificial Intelligence, Machine Learning, Python, Large Language Models, Computer Vision, and backend technologies**.
+This repository contains my personal portfolio website — a space where I showcase my background, technical skills, projects, and interests in **Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models, Python, and Backend Engineering**.
 
-I enjoy turning ideas into working applications — from developing AI-powered systems and computer vision pipelines to building backend APIs and integrating intelligent models into real-world applications.
+The portfolio represents my approach to development:
 
-My approach is simple:
+> **Turning research ideas into working software.**
 
-> **Learn → Build → Experiment → Improve**
-
-I'm particularly interested in opportunities where I can work on challenging technical problems, learn from experienced developers, and contribute to meaningful products.
+I enjoy taking technical concepts and research-oriented ideas and transforming them into practical applications that people can actually use.
 
 ---
 
-## 🌐 Portfolio Website
+## 👩‍💻 About Me
 
-This repository contains my personal portfolio website.
+I'm an **MCA graduate from Government Engineering College, Thrissur**, specializing in applied AI/ML.
 
-The website showcases:
+My work sits at the intersection of:
 
-* 👨‍💻 About Me
-* 🛠️ Technical Skills
-* 🤖 AI/ML Interests
-* 💡 Projects
-* 🔧 What I Build
-* 📬 Contact Information
-* 🔗 Professional Profiles
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models
+- 👁️ Computer Vision
+- 🐍 Python Development
+- ⚙️ Backend Engineering
+- 🔌 API & Microservices Development
 
-### 🔗 Live Portfolio
-
-**[Visit My Portfolio](https://shivada-2707.github.io/shivada-portfolio/)**
+I'm particularly interested in building practical AI-powered applications and exploring how modern AI models can be integrated into real-world software.
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 Featured Projects
+
+### 📝 LaTeX WriteSense AI
+
+An AI-powered academic writing assistant designed to provide real-time writing support.
+
+The project integrates:
+
+- LLaMA3 Large Language Model
+- NLLB-200 translation model
+- FastAPI
+- Microservices architecture
+- Chrome Extension
+
+The goal is to bring intelligent academic writing assistance directly into the user's workflow.
+
+---
+
+### 👁️ YOLOv5 Object Detection
+
+A computer vision project focused on improving object detection in **foggy and low-visibility environments**.
+
+The project combines image enhancement techniques with YOLOv5 to improve detection performance in challenging visual conditions.
+
+**Technologies:**
+
+- Python
+- PyTorch
+- OpenCV
+- YOLOv5
+- CLAHE
+- Computer Vision
+
+---
+
+### 🌱 Fresh Home
+
+A smart organic farming and distribution platform developed as a BCA final-year project.
+
+The system includes:
+
+- SQL-driven recommendation engine
+- CNN-based pest forecasting
+- Crop forecasting
+- Django backend
+- MySQL database
+- Android application
+
+**Technologies:**
+
+`Django` `MySQL` `CNN` `Android Studio`
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming
 
 `Python` `Java` `SQL` `JavaScript` `HTML` `CSS`
 
-### AI / Machine Learning
+### Artificial Intelligence & Machine Learning
 
-`Machine Learning` `Computer Vision` `LLMs` `Prompt Engineering` `AI Application Development`
+`Machine Learning` `Deep Learning` `Large Language Models` `Prompt Engineering`
 
 ### Computer Vision
 
-`YOLOv5` `OpenCV` `CLAHE` `Image Enhancement` `Object Detection`
+`YOLOv5` `OpenCV` `PyTorch` `CLAHE` `Object Detection` `Image Enhancement`
 
-### Backend & APIs
+### Backend Development
 
-`Flask` `FastAPI` `REST APIs`
+`FastAPI` `Flask` `REST APIs` `Microservices`
 
 ### Databases
 
 `MySQL` `MongoDB`
 
-### Tools & Technologies
+### Tools
 
-`Git` `GitHub` `Docker` `PyTorch`
-
----
-
-## 💡 Featured Areas
-
-### 🤖 AI & LLM Applications
-
-Building applications that integrate modern AI models and LLM capabilities to solve practical problems.
-
-### 👁️ Computer Vision
-
-Developing computer vision pipelines involving image preprocessing, enhancement, object detection, and deep-learning-based approaches.
-
-### 🐍 Python Development
-
-Using Python to build AI/ML applications, backend systems, automation workflows, and data-driven solutions.
-
-### ⚙️ Backend Development
-
-Designing APIs and backend services that connect applications, databases, and AI models.
+`Git` `GitHub` `Docker`
 
 ---
 
-## 📌 Projects
+## 🎨 Portfolio Design
 
-Some of the major projects showcased in my portfolio include AI/ML and computer-vision-focused work.
+The website uses a custom **pixel-inspired visual design** with:
 
-### 🔍 Computer Vision & Object Detection
+- Responsive layout
+- Interactive navigation
+- Animated elements
+- Pixel-art-inspired decorations
+- Project cards
+- Skills section
+- Contact section
+- Responsive mobile navigation
+- Social profile links
 
-A computer vision project focused on improving object detection in challenging visual conditions using image enhancement and object detection techniques.
-
-**Technologies:**
-`Python` `PyTorch` `OpenCV` `YOLOv5` `CLAHE`
-
----
-
-### 🤖 AI / LLM Projects
-
-Projects exploring the practical integration of **Large Language Models, prompt engineering, and AI-powered application development**.
-
-**Focus Areas:**
-`LLM Integration` `Prompt Engineering` `AI Applications` `Python`
+The design is intentionally different from a traditional corporate portfolio while keeping the content professional and easy to navigate.
 
 ---
 
-### 🧩 Backend & Application Development
-
-Development work involving backend APIs, application logic, databases, and integration between different components of a software system.
-
-**Technologies:**
-`Python` `Flask` `FastAPI` `MySQL` `MongoDB`
-
----
-
-## 🎯 Currently Exploring
-
-I'm continuously improving my skills in:
-
-* 🧠 Generative AI
-* 🤖 Large Language Models
-* 🔗 LLM Application Development
-* 👁️ Computer Vision
-* 🐍 Advanced Python
-* ⚡ Backend & API Development
-* 🐳 Docker & Deployment
-* ☁️ AI Application Deployment
-
----
-
-## 📊 Portfolio Highlights
-
-| Area                 | Focus             |
-| -------------------- | ----------------- |
-| 🎓 Education         | MCA               |
-| 🤖 Primary Interest  | AI / ML           |
-| 🐍 Main Language     | Python            |
-| 👁️ Specialization   | Computer Vision   |
-| 🧠 Emerging Interest | LLM Applications  |
-| 🔧 Development       | Backend & APIs    |
-| 📦 Projects          | 3+ Major Projects |
-
----
-
-## 🛠️ Built With
-
-This portfolio website is built using:
-
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **Google Fonts**
-* **Responsive Web Design**
-* **Pixel-inspired UI**
-
-## The website uses a custom pixel-art-inspired interface with responsive layouts, animations, interactive navigation, project sections, and contact components.
-
-## 📂 Repository Structure
+## 📂 Website Structure
 
 ```text
-shivada-portfolio/
+shivada-2707.github.io/
 │
 ├── index.html
 └── README.md
-```
-
----
-
-## 🚀 Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/shivada-2707/shivada-portfolio.git
-```
-
-Move into the project:
-
-```bash
-cd shivada-portfolio
-```
-
-Open `index.html` in your browser.
-
-No framework or build process is required.
-
----
-
-## 🌍 Deployment
-
-The portfolio is deployed using **GitHub Pages**.
-
-Every update pushed to the `main` branch can be published to the live portfolio.
-
----
-
-## 📬 Let's Connect
-
-I'm always open to:
-
-* 💼 Software development opportunities
-* 🤖 AI/ML opportunities
-* 🧑‍💻 Internship opportunities
-* 🤝 Collaboration
-* 💡 Interesting technical projects
-
-### Find me online
-
-**GitHub:**
-https://github.com/shivada-2707
-
-**LinkedIn:**
-https://www.linkedin.com/in/shivada-manoj-p-082274339
-
----
-
-## ⭐ If You Like This Portfolio
-
-If you find the project interesting, consider giving the repository a ⭐.
-
-It helps and motivates me to keep learning, building, and experimenting with new technologies.
-
----
-
-<p align="center">
-  <b>Building ideas into intelligent solutions.</b>
-</p>
-
-<p align="center">
-  Made with ❤️ by <b>Shivada Manoj P</b>
-</p>
